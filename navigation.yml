@@ -39,33 +39,33 @@ languages:
     other-links:
   - language: pt
     navbar-links:
-      RELATORIOS: "pt/recommend/"
+      RELATORIOS: "relatorios/"
       DESCUBRA:
-        - Iniciativas italianas : "issues/"
+        - INICIATIVAS : "issues/"
       SIGA-NOS:
-        - CONTATOS: "pt/contatos/"
+        - CONTATOS: "contatos/"
       O QUE É ISSO?:
-        - SOBRE: "pt/sobre/"
-        - FAQ: "pt/faq/"
-        - OPEN DATA: "pt/opendata/"
+        - SOBRE: "sobre/"
+        - FAQ: "faq/"
+        - OPEN DATA: "opendata/"
       CONTRIBUIR:
-        - WIKI: "pt/wiki/"
+        - WIKI: "wiki/"
       PRIVACY: "legal"
     other-links:
-      fake-news: "pt/fake-news"
-      raccolte-fondi: "pt/angariacao-fundos"
-      press: "pt/imprensa"
-      opendata: "/pt/dados-abertos"
-      about: "pt/sobre"
-      canali: "pt/canais"
-      contribuisci: "pt/contribuir"
-      news: "pt/noticias"
-      segnala: "pt/comunique"
-      faq: "pt/faq"
-      fonti-instituzionali: "pt/fontes-institucionais"
-      post: "pt/post"
-      richiesta: "pt/solicitacao"
-      issues: "pt/issues"
-      regione: "pt/regiao"
+      fake-news: "fake-news"
+      raccolte-fondi: "angariacao-fundos"
+      press: "imprensa"
+      opendata: "dados-abertos"
+      about: "sobre"
+      canali: "canais"
+      contribuisci: "contribuir"
+      news: "noticias"
+      segnala: "comunique"
+      faq: "faq"
+      fonti-instituzionali: "fontes-institucionais"
+      post: "post"
+      richiesta: "solicitacao"
+      issues: "issues"
+      regione: "regiao"
 
 
