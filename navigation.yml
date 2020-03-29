@@ -18,7 +18,6 @@ languages:
         - COME PARTECIPARE: "contribuisci/"
         - WIKI: "wiki/"
       PRIVACY: "legal"
-    other-links:
   - language: en
     navbar-links:
       RECOMMEND: "en/recommend/"
@@ -51,21 +50,3 @@ languages:
       CONTRIBUIR:
         - WIKI: "wiki/"
       PRIVACY: "legal"
-    other-links:
-      fake-news: "fake-news"
-      raccolte-fondi: "angariacao-fundos"
-      press: "imprensa"
-      opendata: "dados-abertos"
-      about: "sobre"
-      canali: "canais"
-      contribuisci: "contribuir"
-      news: "noticias"
-      segnala: "comunique"
-      faq: "faq"
-      fonti-instituzionali: "fontes-institucionais"
-      post: "post"
-      richiesta: "solicitacao"
-      issues: "issues"
-      regione: "regiao"
-
-
