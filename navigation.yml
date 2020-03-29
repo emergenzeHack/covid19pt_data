@@ -40,7 +40,7 @@ languages:
     navbar-links:
       RELATORIOS: "relatorios/"
       DESCUBRA:
-        - INICIATIVAS : "issues/"
+        - INICIATIVAS : "iniciativas/"
       SIGA-NOS:
         - CONTATOS: "contatos/"
       O QUE É ISSO?:
