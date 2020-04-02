@@ -28,6 +28,7 @@ it:
     - Consegne e commissioni
     - Consegne e commissioni
     - truck
+    - orange
   - 
     - Supporto psicologico
     - Supporto psicologico
@@ -54,53 +55,54 @@ it:
     - newspaper
     - red
 pt:
-  -
-    - Raccolte fondi
-    - Raccolte fondi
+  - 
+    - angariação de fundos
+    - angariação de fundos
     - eur
     - purple
   - 
-    - Giochi/intrattenimento bambini
-    - Giochi/intrattenimento bambini
+    - jogos/entretenimento para crianças
+    - jogos/entretenimento para crianças
     - handshake-o
     - blue
   - 
-    - Servizi e iniziative solidali
-    - Servizi e iniziative solidali
+    - serviços e iniciativas de solidariedade
+    - serviços e iniciativas de solidariedade
     - handshake-o
     - blue
   - 
-    - Iniziative culturali e ricreative
-    - Attivita culturali e ricreative
+    - iniciativas culturais e recreativas
+    - iniciativas culturais e recreativas
     - icons
     - cyan
   - 
-    - Consegne e commissioni
-    - Consegne e commissioni
+    - entregas e comissões
+    - entregas e comissões
     - truck
+    - orange
   - 
-    - Supporto psicologico
-    - Supporto psicologico
+    - apoio psicológico
+    - apoio psicológico
     - hands-helping
     - green
   - 
-    - Sostegno lavoro e imprese
-    - Sostegno lavoro e imprese
+    - apoio ao trabalho e aos negócios
+    - apoio ao trabalho e aos negócios
     - industry
     - grey
   - 
-    - Donazioni beni e Offerte servizi
-    - Donazioni beni/strumenti
+    - doações de bens e serviços
+    - doações de bens e serviços
     - donate
     - yellow
   - 
-    - Didattica a distanza e-learning
-    - Didattica a distanza e-learning
+    - ensino à distância por e-learning
+    - ensino à distância por e-learning
     - chalkboard-teacher
     - white
   - 
-    - Notizie Utili
-    - Notizie Utili
+    - notícias
+    - notícias
     - newspaper
     - red
 gr:
@@ -128,6 +130,7 @@ gr:
     - Consegne e commissioni
     - Consegne e commissioni
     - truck
+    - orange
   - 
     - Supporto psicologico
     - Supporto psicologico
