@@ -38,7 +38,7 @@ languages:
     other-links:
   - language: pt
     navbar-links:
-      RELATORIOS: "relatorios/"
+      RELATORIOS: "relatórios/"
       DESCUBRA:
         - INICIATIVAS : "iniciativas/"
       SIGA-NOS:
