@@ -16,6 +16,19 @@ Notas_Legais: OK
 O_que: descricao dados
 Onde: 41.155264 -8.616543 0 0
 </yamldata></pre>",open
+https://github.com/emergenzeHack/covid19pt_issues/issues/16,594548099,2020-04-05 20:47:06,2020-04-05 16:41:26,fake news,,,,,"[""Missing position"", ""accepted"", ""fake news"", ""form""]",,,"{""Link"": ""test@fakenews.it"", ""Notas_Legais"": ""OK"", ""O_que"": ""test fake news"", ""Onde"": ""38.72173 -9.139531 0 0"", ""Titulo"": ""test fake news""}","<pre><yamldata>
+Link: test@fakenews.it
+Notas_Legais: OK
+O_que: test fake news
+Onde: 38.72173 -9.139531 0 0
+Titulo: test fake news
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19pt_issues/issues/15,594546731,2020-04-05 20:47:38,2020-04-05 16:38:23,Serviço Informativo Institucional COVID-19,,,,,"[""Missing position"", ""accepted"", ""form"", ""useful contacts""]",,,"{""Finalidade"": ""Servi\u00e7o Informativo Institucional COVID-19"", ""Nome"": ""Servi\u00e7o Nacional de Sa\u00fade - SNS"", ""Notas_Legais"": ""OK"", ""Telefone"": ""808 24 24 24""}","<pre><yamldata>
+Finalidade: Serviço Informativo Institucional COVID-19
+Nome: Serviço Nacional de Saúde - SNS
+Notas_Legais: OK
+Telefone: 808 24 24 24
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19pt_issues/issues/14,594543131,2020-04-05 16:59:21,2020-04-05 16:30:25,Lista de empresas com entrega ao domicílio na #Madeira e #PortoSanto,32.659633,-16.925688,,,"[""accepted"", ""deliveries and services"", ""entrega"", ""form""]",,,"{""Email"": ""now@startupmadeira.eu"", ""Link"": ""https://startupmadeira.eu/pt/2020/03/19/ficaemcasa-servicos-e-entregas-em-casa/#"", ""Nome_do_negocio"": ""Startup Madeira"", ""Notas_Legais"": ""OK"", ""O_que"": ""Lista de empresas com entrega ao domic\u00edlio na Madeira e Porto Santo."", ""location"": ""32.659633 -16.925688 0 0""}","<pre><yamldata>
 Email: now@startupmadeira.eu
 Link: https://startupmadeira.eu/pt/2020/03/19/ficaemcasa-servicos-e-entregas-em-casa/#
