@@ -1,4 +1,21 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19pt_issues/issues/19,594550474,2020-04-05 20:45:47,2020-04-05 16:46:54,Migrants as residents [ENG],,,,,"[""Missing position"", ""accepted"", ""form"", ""useful news""]",,,"{""Link"": ""https://uk.reuters.com/article/us-health-coronavirus-portugal/portugal-to-treat-migrants-as-residents-during-coronavirus-crisis-idUKKBN21F0N7"", ""Nome"": ""Migrants as residents [ENG]"", ""Notas_Legais"": ""OK"", ""O_que"": ""All foreigners in Portugal with pending applications will be treated as permanent residents until at least July 1, to ensure migrants have access to public services during the coronavirus outbreak."", ""Onde"": ""38.722299 -9.140003 0 0""}","<pre><yamldata>
+Link: https://uk.reuters.com/article/us-health-coronavirus-portugal/portugal-to-treat-migrants-as-residents-during-coronavirus-crisis-idUKKBN21F0N7
+Nome: Migrants as residents [ENG]
+Notas_Legais: OK
+O_que: All foreigners in Portugal with pending applications will be treated as permanent
+  residents until at least July 1, to ensure migrants have access to public services
+  during the coronavirus outbreak.
+Onde: 38.722299 -9.140003 0 0
+</yamldata></pre>",open
+https://github.com/emergenzeHack/covid19pt_issues/issues/17,594548716,2020-04-05 20:46:39,2020-04-05 16:42:52,test dados,,,,,"[""Missing position"", ""accepted"", ""form"", ""useful data""]",,,"{""Fonte"": ""test dados"", ""Link"": ""www.dados.it"", ""Nome"": ""test dados"", ""Notas_Legais"": ""OK"", ""O_que"": ""descricao dados"", ""Onde"": ""41.155264 -8.616543 0 0""}","<pre><yamldata>
+Fonte: test dados
+Link: www.dados.it
+Nome: test dados
+Notas_Legais: OK
+O_que: descricao dados
+Onde: 41.155264 -8.616543 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19pt_issues/issues/14,594543131,2020-04-05 16:59:21,2020-04-05 16:30:25,Lista de empresas com entrega ao domicílio na #Madeira e #PortoSanto,32.659633,-16.925688,,,"[""accepted"", ""deliveries and services"", ""entrega"", ""form""]",,,"{""Email"": ""now@startupmadeira.eu"", ""Link"": ""https://startupmadeira.eu/pt/2020/03/19/ficaemcasa-servicos-e-entregas-em-casa/#"", ""Nome_do_negocio"": ""Startup Madeira"", ""Notas_Legais"": ""OK"", ""O_que"": ""Lista de empresas com entrega ao domic\u00edlio na Madeira e Porto Santo."", ""location"": ""32.659633 -16.925688 0 0""}","<pre><yamldata>
 Email: now@startupmadeira.eu
 Link: https://startupmadeira.eu/pt/2020/03/19/ficaemcasa-servicos-e-entregas-em-casa/#
