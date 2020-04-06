@@ -1,4 +1,23 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19pt_issues/issues/24,595278660,2020-04-06 17:12:13,2020-04-06 17:06:24,acalma.online: Apoio psicológico gratuito online #Portugal,,,,,"[""Missing position"", ""accepted"", ""form"", ""private solidarity services and initiatives"", ""psychological support"", ""solidarity initiatives""]",,,"{""Destinatarios"": ""todos"", ""Link"": ""https://acalma.online/"", ""Notas_Legais"": ""OK"", ""O_que"": ""O acalma.online \u00e9 um projeto portugu\u00eas de apoio psicol\u00f3gico gratuito online, promovido pela Casa do Impacto no \u00e2mbito do movimento Tech4covid19, com o apoio das Startups de Impacto ZenKlub, Doctorino e Hug-a-Group e em parceria com a WithCompany e a DoctorSpin.\n\nA plataforma tem como objetivos basilares a promo\u00e7\u00e3o do al\u00edvio imediato do impacto psicol\u00f3gico da crise criada pelo COVID-19 e o apoio ao desenvolvimento de compet\u00eancias psicol\u00f3gicas para lidar com os desafios decorrentes da atual pandemia, e conta com profissionais de Psicologia Cl\u00ednica devidamente treinados para o efeito."", ""Oferente"": ""acalma.online"", ""Tipo_de_entidade"": ""privado"", ""Tipo_de_iniciativa"": ""solidariedade"", ""Titulo"": ""O acalma.online""}","<pre><yamldata>
+Destinatarios: todos
+Link: https://acalma.online/
+Notas_Legais: OK
+O_que: 'O acalma.online é um projeto português de apoio psicológico gratuito online,
+  promovido pela Casa do Impacto no âmbito do movimento Tech4covid19, com o apoio
+  das Startups de Impacto ZenKlub, Doctorino e Hug-a-Group e em parceria com a WithCompany
+  e a DoctorSpin.
+
+
+  A plataforma tem como objetivos basilares a promoção do alívio imediato do impacto
+  psicológico da crise criada pelo COVID-19 e o apoio ao desenvolvimento de competências
+  psicológicas para lidar com os desafios decorrentes da atual pandemia, e conta com
+  profissionais de Psicologia Clínica devidamente treinados para o efeito.'
+Oferente: acalma.online
+Tipo_de_entidade: privado
+Tipo_de_iniciativa: solidariedade
+Titulo: O acalma.online
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19pt_issues/issues/23,594684571,2020-04-05 22:44:13,2020-04-05 22:34:30,Teia 19 Plataforma de conteúdos artísticos,,,,,"[""Missing position"", ""accepted"", ""cultural activities and leisure"", ""form"", ""private solidarity services and initiatives"", ""solidarity initiatives""]",,,"{""Destinatarios"": ""artistas e p\u00fablico"", ""Link"": ""https://www.facebook.com/Teia19/"", ""Notas_Legais"": ""OK"", ""O_que"": ""Um grupo informal com artistas e t\u00e9cnicos criou uma plataforma de conte\u00fados art\u00edsticos para disponibilizar \u2018online\u2019, apelando aos donativos do p\u00fablico no sentido de minimizar a aus\u00eancia de rendimentos dos artistas devido \u00e0 pandemia de covid-19.\nA primeira iniciativa realiza-se em 07 de abril e consiste num recital que faz parte da iniciativa mensal \u201cAs primas ter\u00e7as\u201d e vai incidir sobre os poetas de Am\u00e1lia."", ""Oferente"": ""plataforma de conte\u00fados art\u00edsticos para disponibilizar \u2018online\u2019, apelando aos donativos do p\u00fablico"", ""Tipo_de_iniciativa"": ""cultural-recre"", ""Titulo"": ""Teia 19""}","<pre><yamldata>
 Destinatarios: artistas e público
 Link: https://www.facebook.com/Teia19/
@@ -23,7 +42,7 @@ O_que: All foreigners in Portugal with pending applications will be treated as p
   during the coronavirus outbreak.
 Location: 38.722299 -9.140003 0 0
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19pt_issues/issues/16,594548099,2020-04-06 14:33:45,2020-04-05 16:41:26,fake news,,,,,"[""Missing position"", ""accepted"", ""fake news"", ""form"", ""institutional sources""]",,,"{""Link"": ""test@fakenews.it"", ""Notas_Legais"": ""OK"", ""O_que"": ""test fake news"", ""Onde"": ""38.72173 -9.139531 0 0"", ""Titulo"": ""test fake news""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19pt_issues/issues/16,594548099,2020-04-06 17:00:40,2020-04-05 16:41:26,fake news,,,,,"[""Missing position"", ""accepted"", ""fake news"", ""form"", ""institutional sources""]",,,"{""Link"": ""test@fakenews.it"", ""Notas_Legais"": ""OK"", ""O_que"": ""test fake news"", ""Onde"": ""38.72173 -9.139531 0 0"", ""Titulo"": ""test fake news""}","<pre><yamldata>
 Link: test@fakenews.it
 Notas_Legais: OK
 O_que: test fake news
