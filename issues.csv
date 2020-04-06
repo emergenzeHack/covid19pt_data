@@ -23,14 +23,6 @@ O_que: All foreigners in Portugal with pending applications will be treated as p
   during the coronavirus outbreak.
 Location: 38.722299 -9.140003 0 0
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19pt_issues/issues/17,594548716,2020-04-05 20:46:39,2020-04-05 16:42:52,test dados,,,,,"[""Missing position"", ""accepted"", ""form"", ""useful data""]",,,"{""Fonte"": ""test dados"", ""Link"": ""www.dados.it"", ""Nome"": ""test dados"", ""Notas_Legais"": ""OK"", ""O_que"": ""descricao dados"", ""Onde"": ""41.155264 -8.616543 0 0""}","<pre><yamldata>
-Fonte: test dados
-Link: www.dados.it
-Nome: test dados
-Notas_Legais: OK
-O_que: descricao dados
-Onde: 41.155264 -8.616543 0 0
-</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19pt_issues/issues/16,594548099,2020-04-05 20:47:06,2020-04-05 16:41:26,fake news,,,,,"[""Missing position"", ""accepted"", ""fake news"", ""form""]",,,"{""Link"": ""test@fakenews.it"", ""Notas_Legais"": ""OK"", ""O_que"": ""test fake news"", ""Onde"": ""38.72173 -9.139531 0 0"", ""Titulo"": ""test fake news""}","<pre><yamldata>
 Link: test@fakenews.it
 Notas_Legais: OK
