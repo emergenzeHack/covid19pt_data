@@ -1,4 +1,17 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19pt_issues/issues/28,595310892,2020-04-06 18:03:00,2020-04-06 17:55:08,Rooms Against Covid - acomodações temporárias e gratuitas a profissionais de saúde #Faro,37.015969,-7.932923,,,"[""accepted"", ""donations"", ""form"", ""private solidarity services and initiatives"", ""solidarity initiatives""]",,,"{""Destinatarios"": ""profissionais de sa\u00fade que trabalham contra o Covid19, propriet\u00e1rios de alojamento"", ""Link"": ""https://www.roomsagainstcovid.com/"", ""Notas_Legais"": ""OK"", ""O_que"": ""Para apoiar as pessoas que est\u00e3o a trabalhar arduamente na linha de frente para mitigar o impacto do COVID-19, estamos a trabalhar com o objectivo de oferecer acomoda\u00e7\u00f5es tempor\u00e1rias e gratuitas a profissionais de sa\u00fade realocados"", ""Oferente"": ""Rooms Against Covid"", ""Tipo_de_iniciativa"": ""trabalho-empre"", ""Titulo"": ""Rooms Against Covid #Faro"", ""location"": ""37.015969 -7.932923 0 0""}","<pre><yamldata>
+Destinatarios: profissionais de saúde que trabalham contra o Covid19, proprietários
+  de alojamento
+Link: https://www.roomsagainstcovid.com/
+Notas_Legais: OK
+O_que: Para apoiar as pessoas que estão a trabalhar arduamente na linha de frente
+  para mitigar o impacto do COVID-19, estamos a trabalhar com o objectivo de oferecer
+  acomodações temporárias e gratuitas a profissionais de saúde realocados
+Oferente: Rooms Against Covid
+Tipo_de_iniciativa: trabalho-empre
+Titulo: 'Rooms Against Covid #Faro'
+location: 37.015969 -7.932923 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19pt_issues/issues/27,595309472,2020-04-06 18:02:06,2020-04-06 17:52:57,Rooms Against Covid - acomodações temporárias e gratuitas a profissionais de saúde #Funchal,32.648499,-16.910384,,,"[""accepted"", ""donations"", ""form"", ""private solidarity services and initiatives"", ""solidarity initiatives""]",,,"{""Destinatarios"": ""profissionais de sa\u00fade que trabalham contra o Covid19, propriet\u00e1rios de alojamento"", ""Link"": ""https://www.roomsagainstcovid.com/"", ""Notas_Legais"": ""OK"", ""O_que"": ""Para apoiar as pessoas que est\u00e3o a trabalhar arduamente na linha de frente para mitigar o impacto do COVID-19, estamos a trabalhar com o objectivo de oferecer acomoda\u00e7\u00f5es tempor\u00e1rias e gratuitas a profissionais de sa\u00fade realocados"", ""Oferente"": ""Rooms Against Covid"", ""Tipo_de_iniciativa"": ""trabalho-empre"", ""Titulo"": ""Rooms Against Covid"", ""location"": ""32.648499 -16.910384 0 0""}","<pre><yamldata>
 Destinatarios: profissionais de saúde que trabalham contra o Covid19, proprietários
   de alojamento
