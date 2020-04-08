@@ -1,4 +1,15 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19pt_issues/issues/31,596411104,2020-04-08 09:00:27,2020-04-08 08:43:32,entrega,32.650198,-16.908261,,,"[""accepted"", ""deliveries and services"", ""entrega"", ""form""]",,,"{""Link"": ""http://www.cm-funchal.pt/pt/not%C3%ADciaspt/7096-a-c%C3%A2mara-municipal-do-funchal-promove,-a-partir-desta-quarta-feira,-dia-8-de-abril,-a-venda-itinerante-de-fruta-e-legumes-pelo-concelho,-em-mais-uma-medida-no-sentido-de-apoiar-os-agricultores-regionais-a-escoar-os-seus-produtos-nesta-altura-de-crise.html"", ""Nome_do_negocio"": ""C\u00e2mara Municipal do #Funchal - comerciantes fruta e legumes"", ""Notas_Legais"": ""OK"", ""O_que"": ""Covid-19: Funchal promove venda itinerante de fruta e legumes pelo concelho\nA partir desta quarta-feira, dia 8 de abril, pelo menos 10 comerciantes v\u00e3o circular pela cidade num meio m\u00f3vel de comercializa\u00e7\u00e3o que estar\u00e1 devidamente identificado com a imagem do projeto."", ""location"": ""32.650198 -16.908261 0 0""}","<pre><yamldata>
+Link: http://www.cm-funchal.pt/pt/not%C3%ADciaspt/7096-a-c%C3%A2mara-municipal-do-funchal-promove,-a-partir-desta-quarta-feira,-dia-8-de-abril,-a-venda-itinerante-de-fruta-e-legumes-pelo-concelho,-em-mais-uma-medida-no-sentido-de-apoiar-os-agricultores-regionais-a-escoar-os-seus-produtos-nesta-altura-de-crise.html
+Nome_do_negocio: 'Câmara Municipal do #Funchal - comerciantes fruta e legumes'
+Notas_Legais: OK
+O_que: 'Covid-19: Funchal promove venda itinerante de fruta e legumes pelo concelho
+
+  A partir desta quarta-feira, dia 8 de abril, pelo menos 10 comerciantes vão circular
+  pela cidade num meio móvel de comercialização que estará devidamente identificado
+  com a imagem do projeto.'
+location: 32.650198 -16.908261 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19pt_issues/issues/30,595312778,2020-04-06 18:04:33,2020-04-06 17:57:42,Rooms Against Covid - acomodações temporárias e gratuitas a profissionais de saúde #Braga,41.550222,-8.427683,,,"[""accepted"", ""donations"", ""form"", ""private solidarity services and initiatives"", ""solidarity initiatives""]",,,"{""Destinatarios"": ""profissionais de sa\u00fade que trabalham contra o Covid19, propriet\u00e1rios de alojamento"", ""Link"": ""https://www.roomsagainstcovid.com/"", ""Notas_Legais"": ""OK"", ""O_que"": ""Para apoiar as pessoas que est\u00e3o a trabalhar arduamente na linha de frente para mitigar o impacto do COVID-19, estamos a trabalhar com o objectivo de oferecer acomoda\u00e7\u00f5es tempor\u00e1rias e gratuitas a profissionais de sa\u00fade realocados"", ""Oferente"": ""Rooms Against Covid"", ""Tipo_de_iniciativa"": ""trabalho-empre"", ""Titulo"": ""Rooms Against Covid #Braga"", ""location"": ""41.550222 -8.427683 0 0""}","<pre><yamldata>
 Destinatarios: profissionais de saúde que trabalham contra o Covid19, proprietários
   de alojamento
@@ -120,7 +131,7 @@ O_que: All foreigners in Portugal with pending applications will be treated as p
   during the coronavirus outbreak.
 Location: 38.722299 -9.140003 0 0
 </yamldata></pre>",open
-https://github.com/emergenzeHack/covid19pt_issues/issues/15,594546731,2020-04-05 20:47:38,2020-04-05 16:38:23,Serviço Informativo Institucional COVID-19,,,,,"[""Missing position"", ""accepted"", ""form"", ""useful contacts""]",,,"{""Finalidade"": ""Servi\u00e7o Informativo Institucional COVID-19"", ""Nome"": ""Servi\u00e7o Nacional de Sa\u00fade - SNS"", ""Notas_Legais"": ""OK"", ""Telefone"": ""808 24 24 24""}","<pre><yamldata>
+https://github.com/emergenzeHack/covid19pt_issues/issues/15,594546731,2020-04-07 13:07:09,2020-04-05 16:38:23,Serviço Informativo Institucional COVID-19,,,,,"[""Missing position"", ""accepted"", ""form"", ""institutional sources"", ""useful contacts"", ""useful news""]",,,"{""Finalidade"": ""Servi\u00e7o Informativo Institucional COVID-19"", ""Nome"": ""Servi\u00e7o Nacional de Sa\u00fade - SNS"", ""Notas_Legais"": ""OK"", ""Telefone"": ""808 24 24 24""}","<pre><yamldata>
 Finalidade: Serviço Informativo Institucional COVID-19
 Nome: Serviço Nacional de Saúde - SNS
 Notas_Legais: OK
