@@ -1,4 +1,23 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19pt_issues/issues/33,596772269,2020-04-08 18:31:16,2020-04-08 18:27:51,"Bom vizinho #Madeira plataforma para angariar voluntár, Professores e Psicólogos",32.743509,-17.00278,,,"[""accepted"", ""deliveries and services"", ""e-learning"", ""entrega"", ""form"", ""games and activities for children"", ""private solidarity services and initiatives"", ""psychological support"", ""solidarity initiatives""]",,,"{""Destinatarios"": ""comunidade madeirense"", ""Link"": ""https://www.bomvizinho-madeira.pt/"", ""Notas_Legais"": ""OK"", ""O_que"": ""Esta \u00e9 uma plataforma sem fins lucrativos que apenas pretende angariar volunt\u00e1rios para que estes se disponibilizam a ir \u00e0s Farm\u00e1cias e Supermercados e desta forma ajudar a comunidade madeirense, nesta altura t\u00e3o critica em que todos estamos a viver, por causa da pandemia do Covid-10.\n\nOutro do foco \u00e9 conseguir que Professores e Psic\u00f3logos tamb\u00e9m possam dar o seu contributo, igualmente como volunt\u00e1rios."", ""Oferente"": ""angariar volunt\u00e1rios para que estes se disponibilizam a ir \u00e0s Farm\u00e1cias e Supermercados"", ""Tipo_de_entidade"": ""privado"", ""Tipo_de_iniciativa"": ""solidariedade"", ""Titulo"": ""Bom vizinho Madeira"", ""location"": ""32.743509 -17.00278 0 0""}","<pre><yamldata>
+Destinatarios: comunidade madeirense
+Link: https://www.bomvizinho-madeira.pt/
+Notas_Legais: OK
+O_que: 'Esta é uma plataforma sem fins lucrativos que apenas pretende angariar voluntários
+  para que estes se disponibilizam a ir às Farmácias e Supermercados e desta forma
+  ajudar a comunidade madeirense, nesta altura tão critica em que todos estamos a
+  viver, por causa da pandemia do Covid-10.
+
+
+  Outro do foco é conseguir que Professores e Psicólogos também possam dar o seu contributo,
+  igualmente como voluntários.'
+Oferente: angariar voluntários para que estes se disponibilizam a ir às Farmácias
+  e Supermercados
+Tipo_de_entidade: privado
+Tipo_de_iniciativa: solidariedade
+Titulo: Bom vizinho Madeira
+location: 32.743509 -17.00278 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19pt_issues/issues/32,596767331,2020-04-08 18:22:11,2020-04-08 18:18:32,Sebenta da Quarentena - atividades para ajudar os idosos a ocupar o tempo,,,,,"[""Missing position"", ""accepted"", ""bulletin"", ""cultural activities and leisure"", ""form"", ""private solidarity services and initiatives"", ""solidarity initiatives""]",,,"{""Destinatarios"": ""idosos"", ""Link"": ""https://sebentadaquarentena.com/"", ""Notas_Legais"": ""OK"", ""O_que"": ""A Sebenta da Quarentena \u00e9 um caderno de atividades, feito por 40 artistas portugueses, que quer ajudar os mais velhos a ocupar o tempo. Est\u00e1 dispon\u00edvel online de forma gratuita e j\u00e1 come\u00e7ou a ser distribu\u00edda pelas juntas de freguesia"", ""Oferente"": ""caderno de atividades para ajudar os mais velhos a ocupar o tempo"", ""Tipo_de_iniciativa"": ""cultural-recre"", ""Titulo"": ""Sebenta da Quarentena""}","<pre><yamldata>
 Destinatarios: idosos
 Link: https://sebentadaquarentena.com/
