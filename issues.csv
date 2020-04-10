@@ -1,4 +1,18 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19pt_issues/issues/35,598011166,2020-04-10 17:51:27,2020-04-10 17:49:57,#Madeira IASaúde linha de apoio psicológico 219 212 399,32.64948,-16.910922,,,"[""accepted"", ""form"", ""psychological support"", ""public solidarity services and initiatives"", ""useful contacts""]",,,"{""Finalidade"": ""O IASa\u00fade passa a disponibilizar uma linha de apoio psicol\u00f3gico para dar resposta \u00e0s quest\u00f5es que possam surgir devido ao isolamento imposto pelas medidas de restri\u00e7\u00e3o ao surto de Covid-19.\n\nAssim, todos os cidad\u00e3os que necessitem deste tipo de ajuda podem doravante ligar para o n\u00famero 219 212 399, dispon\u00edvel todos os dias 9 \u00e0s 21 horas."", ""Link"": ""https://www.dnoticias.pt/madeira/iasaude-disponibiliza-linha-de-apoio-psicologico-EC6037767?utm_source=twitter&utm_medium=twitter#"", ""Nome"": ""#Madeira IASa\u00fade"", ""Notas_Legais"": ""OK"", ""Telefone"": ""219 212 399"", ""location"": ""32.64948 -16.910922 0 0""}","<pre><yamldata>
+Finalidade: 'O IASaúde passa a disponibilizar uma linha de apoio psicológico para
+  dar resposta às questões que possam surgir devido ao isolamento imposto pelas medidas
+  de restrição ao surto de Covid-19.
+
+
+  Assim, todos os cidadãos que necessitem deste tipo de ajuda podem doravante ligar
+  para o número 219 212 399, disponível todos os dias 9 às 21 horas.'
+Link: https://www.dnoticias.pt/madeira/iasaude-disponibiliza-linha-de-apoio-psicologico-EC6037767?utm_source=twitter&utm_medium=twitter#
+Nome: '#Madeira IASaúde'
+Notas_Legais: OK
+Telefone: 219 212 399
+location: 32.64948 -16.910922 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19pt_issues/issues/34,596779016,2020-04-08 18:41:45,2020-04-08 18:40:10,"Banco Alimentar, doação de alimentos online #Portugal",38.707174,-9.173171,,,"[""accepted"", ""bulletin"", ""donations"", ""form"", ""goods donation and services offering"", ""goods donations and services offering"", ""private solidarity services and initiatives""]",,,"{""Descricao"": ""Em resposta \u00e0 situa\u00e7\u00e3o de emerg\u00eancia que se vive atualmente, e para que a Rede de Emerg\u00eancia Alimentar possa chegar a mais pessoas o site www.alimentestaideia.pt permite a doa\u00e7\u00e3o de alimentos. Os bens doados ser\u00e3o usados para refor\u00e7o dos cabazes entregues \u00e0s fam\u00edlias de acordo com os crit\u00e9rios do Banco Alimentar de cada regi\u00e3o e em fun\u00e7\u00e3o das entidades registadas na Rede de Emerg\u00eancia Alimenta."", ""Destinatarios"": ""Popula\u00e7\u00e3o mais pobre"", ""Link"": ""https://www.bancoalimentar.pt/quem-somos/pagina-noticias/noticias-federacao/alimentestaideia/"", ""Notas_Legais"": ""OK"", ""O_que"": ""Canal de doa\u00e7\u00f5es online, para permitir a doa\u00e7\u00e3o de alimentos"", ""location"": ""38.707174 -9.173171 0 0""}","<pre><yamldata>
 Descricao: Em resposta à situação de emergência que se vive atualmente, e para que
   a Rede de Emergência Alimentar possa chegar a mais pessoas o site www.alimentestaideia.pt
