@@ -1,4 +1,34 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19pt_issues/issues/36,598021085,2020-04-10 18:16:26,2020-04-10 18:12:47,"Mercado em casa: entrega de bens essenciais como fruta e legumes, idosos e pessoas com deficiência  #Funchal #Madeira",32.650296,-16.908027,,,"[""accepted"", ""deliveries and services"", ""entrega"", ""form"", ""public solidarity services and initiatives""]",,,"{""Email"": ""mercadoemcasa@cm-funchal.pt"", ""Link"": ""http://www.cm-funchal.pt/pt/not%C3%ADciaspt/7094-cmf-leva-fruta-e-legumes-do-mercado-a-casa-de-pessoas-com-defici%C3%AAncia.html"", ""Nome_do_negocio"": ""C\u00e2mara Municipal do Funchal e comerciantes dos Mercados Municipais"", ""Notas_Legais"": ""OK"", ""O_que"": ""A C\u00e2mara Municipal do Funchal alarga, a partir desta semana, o \u201cMercado em Casa\u201d a pessoas com defici\u00eancia ou incapacidade. A iniciativa foi criada com o intuito de combater o isolamento dos idosos do concelho, assegurando a entrega de bens essenciais como fruta e legumes, com recurso \u00e0 frota de viaturas municipal, mas chegar\u00e1 agora a ainda mais fam\u00edlias que dela necessitem, promovendo a inclus\u00e3o das pessoas com defici\u00eancia.\n\nS\u00e3o abrangidos por este servi\u00e7o de entregas gratuitas os idosos residentes no concelho do Funchal (a partir dos 65 anos), as pessoas com defici\u00eancia ou incapacidade de qualquer idade, e os agregados familiares onde estes estejam inseridos. As encomendas podem ser feitas de segunda-feira a s\u00e1bado (nesta semana da P\u00e1scoa s\u00f3 at\u00e9 quinta-feira) pelo telefone 291 214 083, no per\u00edodo das 9h \u00e0s 12h, ou atrav\u00e9s do email mercadoemcasa@cm-funchal.pt, por exemplo, no caso da encomenda ser feita por terceiros. No ato da encomenda, quem fizer o pedido tem de indicar nome completo, idade, morada exata, contacto telef\u00f3nico e NIF.\n\nAs entregas s\u00e3o feitas diariamente, por ordem de chegada, at\u00e9 \u00e0s 13h, e ainda que tal fique sujeito ao n\u00famero de pedidos, tem sido poss\u00edvel entregar as encomendas em casa das pessoas no pr\u00f3prio dia. O fornecimento dos produtos \u00e9 assegurado pelos comerciantes no ativo, de forma rotativa."", ""Telefone"": ""291 214 083"", ""location"": ""32.650296 -16.908027 0 0""}","<pre><yamldata>
+Email: mercadoemcasa@cm-funchal.pt
+Link: http://www.cm-funchal.pt/pt/not%C3%ADciaspt/7094-cmf-leva-fruta-e-legumes-do-mercado-a-casa-de-pessoas-com-defici%C3%AAncia.html
+Nome_do_negocio: Câmara Municipal do Funchal e comerciantes dos Mercados Municipais
+Notas_Legais: OK
+O_que: 'A Câmara Municipal do Funchal alarga, a partir desta semana, o “Mercado em
+  Casa” a pessoas com deficiência ou incapacidade. A iniciativa foi criada com o intuito
+  de combater o isolamento dos idosos do concelho, assegurando a entrega de bens essenciais
+  como fruta e legumes, com recurso à frota de viaturas municipal, mas chegará agora
+  a ainda mais famílias que dela necessitem, promovendo a inclusão das pessoas com
+  deficiência.
+
+
+  São abrangidos por este serviço de entregas gratuitas os idosos residentes no concelho
+  do Funchal (a partir dos 65 anos), as pessoas com deficiência ou incapacidade de
+  qualquer idade, e os agregados familiares onde estes estejam inseridos. As encomendas
+  podem ser feitas de segunda-feira a sábado (nesta semana da Páscoa só até quinta-feira)
+  pelo telefone 291 214 083, no período das 9h às 12h, ou através do email mercadoemcasa@cm-funchal.pt,
+  por exemplo, no caso da encomenda ser feita por terceiros. No ato da encomenda,
+  quem fizer o pedido tem de indicar nome completo, idade, morada exata, contacto
+  telefónico e NIF.
+
+
+  As entregas são feitas diariamente, por ordem de chegada, até às 13h, e ainda que
+  tal fique sujeito ao número de pedidos, tem sido possível entregar as encomendas
+  em casa das pessoas no próprio dia. O fornecimento dos produtos é assegurado pelos
+  comerciantes no ativo, de forma rotativa.'
+Telefone: 291 214 083
+location: 32.650296 -16.908027 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19pt_issues/issues/35,598011166,2020-04-10 17:51:27,2020-04-10 17:49:57,#Madeira IASaúde linha de apoio psicológico 219 212 399,32.64948,-16.910922,,,"[""accepted"", ""form"", ""psychological support"", ""public solidarity services and initiatives"", ""useful contacts""]",,,"{""Finalidade"": ""O IASa\u00fade passa a disponibilizar uma linha de apoio psicol\u00f3gico para dar resposta \u00e0s quest\u00f5es que possam surgir devido ao isolamento imposto pelas medidas de restri\u00e7\u00e3o ao surto de Covid-19.\n\nAssim, todos os cidad\u00e3os que necessitem deste tipo de ajuda podem doravante ligar para o n\u00famero 219 212 399, dispon\u00edvel todos os dias 9 \u00e0s 21 horas."", ""Link"": ""https://www.dnoticias.pt/madeira/iasaude-disponibiliza-linha-de-apoio-psicologico-EC6037767?utm_source=twitter&utm_medium=twitter#"", ""Nome"": ""#Madeira IASa\u00fade"", ""Notas_Legais"": ""OK"", ""Telefone"": ""219 212 399"", ""location"": ""32.64948 -16.910922 0 0""}","<pre><yamldata>
 Finalidade: 'O IASaúde passa a disponibilizar uma linha de apoio psicológico para
   dar resposta às questões que possam surgir devido ao isolamento imposto pelas medidas
