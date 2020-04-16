@@ -1,4 +1,19 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19pt_issues/issues/39,601553325,2020-04-16 22:52:59,2020-04-16 22:34:32,SOSvizinho - projeto online para organizar uma rede de apoio a grupos de risco #Portugal,,,,,"[""Missing position"", ""accepted"", ""bulletin"", ""form"", ""private solidarity services and initiatives"", ""useful contacts"", ""useful data""]",,,"{""Finalidade"": ""O SOSvizinho \u00e9 um projeto que juntou at\u00e9 agora mais de uma centena de especialistas de v\u00e1rias \u00e1reas e zonas do pa\u00eds, para organizar uma rede de apoio a grupos de risco que neste momento se devem encontrar em isolamento social. O projeto surgiu online, organizou-se remotamente e lan\u00e7ou-se em 48 horas.\n\nO objetivo \u00e9 ajudar a sinalizar os grupos/doentes de risco de cada regi\u00e3o e criar uma rede de distribui\u00e7\u00e3o, atrav\u00e9s de volunt\u00e1rios que se inscrevem online. O SOSvizinho pretende, assim, fazer chegar a estas pessoas os bens essenciais que necessitam, evitando que saiam das suas casas e, consequentemente, estejam mais expostas."", ""Link"": ""https://sosvizinho.pt/"", ""Nome"": ""SOSvizinho"", ""Notas_Legais"": ""OK""}","<pre><yamldata>
+Finalidade: 'O SOSvizinho é um projeto que juntou até agora mais de uma centena de
+  especialistas de várias áreas e zonas do país, para organizar uma rede de apoio
+  a grupos de risco que neste momento se devem encontrar em isolamento social. O projeto
+  surgiu online, organizou-se remotamente e lançou-se em 48 horas.
+
+
+  O objetivo é ajudar a sinalizar os grupos/doentes de risco de cada região e criar
+  uma rede de distribuição, através de voluntários que se inscrevem online. O SOSvizinho
+  pretende, assim, fazer chegar a estas pessoas os bens essenciais que necessitam,
+  evitando que saiam das suas casas e, consequentemente, estejam mais expostas.'
+Link: https://sosvizinho.pt/
+Nome: SOSvizinho
+Notas_Legais: OK
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19pt_issues/issues/38,601546715,2020-04-16 22:50:54,2020-04-16 22:25:19,#EstamosON guia prático com toda a informação no combate aos efeitos causados pelo COVID-19,,,,,"[""Missing position"", ""accepted"", ""bulletin"", ""form"", ""useful contacts"", ""useful data"", ""useful news""]",,,"{""Finalidade"": ""Este site pretende ser um guia pr\u00e1tico para apoiar cidad\u00e3os, fam\u00edlias e empresas no combate aos efeitos causados pelo novo coronav\u00edrus e a COVID-19. Aqui poder\u00e1 encontrar toda a informa\u00e7\u00e3o e conhecer os apoios a que tem direito.\n\nConsulte as boas pr\u00e1ticas e as recomenda\u00e7\u00f5es das autoridades de Sa\u00fade, conhe\u00e7a os melhores conselhos para trabalhar a partir de casa e saiba como recorrer aos servi\u00e7os p\u00fablicos sem ter de se deslocar.\n\nPoder\u00e1 ainda ficar a conhecer as medidas excecionais adotadas pelo Governo em cada \u00e1rea governativa e acompanhar as evolu\u00e7\u00f5es do estado epidemiol\u00f3gico do Pa\u00eds. Est\u00e1 tamb\u00e9m dispon\u00edvel para consulta a legisla\u00e7\u00e3o especificamente aprovada, bem como as diferentes comunica\u00e7\u00f5es do Governo nesta mat\u00e9ria.\n\nAl\u00e9m destas informa\u00e7\u00f5es, pode aceder \u00e0 lista completa dos contactos de emerg\u00eancia criados pelos diversos servi\u00e7os p\u00fablicos para que, de forma simples e eficiente, encontre a resposta que procura.\n\nEste site foi constru\u00eddo com o apoio dos volunt\u00e1rios da VOST Portugal."", ""Link"": ""https://covid19estamoson.gov.pt/#"", ""Nome"": ""#EstamosON"", ""Notas_Legais"": ""OK""}","<pre><yamldata>
 Finalidade: 'Este site pretende ser um guia prático para apoiar cidadãos, famílias
   e empresas no combate aos efeitos causados pelo novo coronavírus e a COVID-19. Aqui
