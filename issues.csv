@@ -1,4 +1,26 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19pt_issues/issues/41,601576423,2020-04-16 23:11:21,2020-04-16 23:09:01,Câmara Municipal de Câmara de Lobos,32.649358,-16.979354,,,"[""accepted"", ""donations"", ""e-learning"", ""form"", ""institutional sources"", ""support request""]",,,"{""Descricao"": ""A C\u00e2mara Municipal de C\u00e2mara de Lobos lan\u00e7ou um apelo para a doa\u00e7\u00e3o de computadores que as pessoas possam ter em casa sem uso. Este pedido vem na sequ\u00eancia do levantamento feito pela Delega\u00e7\u00e3o Escolar de C\u00e2mara de Lobos, que constatou que um n\u00famero significativo de alunos n\u00e3o t\u00eam acesso a estes equipamentos, essenciais para acompanhar o decorrer das atividades letivas, uma vez que as aulas presenciais est\u00e3o suspensas.\n\nOs equipamentos poder\u00e3o ser entregues na Biblioteca Municipal de C\u00e2mara de Lobos, a partir de amanh\u00e3 dia 7 de abril (ter\u00e7a feira) das 10h00\u00e0s 16h00. Em alternativa, empresas e privados poder\u00e3o enviar email para geral@cm-camaradelobos.pt e a autarquia proceder\u00e1 \u00e0 recolha dos equipamentos Os mesmos ser\u00e3o recondicionados e entregues aos alunos."", ""Destinatarios"": ""alunos do concelho"", ""Email"": ""geral@cm-camaradelobos.pt"", ""Link"": ""https://www.facebook.com/municipiodecamaradelobos/photos/a.541842429230829/2907749369306778/?type=3&theater"", ""Nome"": ""C\u00e2mara Municipal de C\u00e2mara de Lobos"", ""Notas_Legais"": ""OK"", ""O_que"": ""Computadores"", ""location"": ""32.649358 -16.979354 0 0""}","<pre><yamldata>
+Descricao: 'A Câmara Municipal de Câmara de Lobos lançou um apelo para a doação de
+  computadores que as pessoas possam ter em casa sem uso. Este pedido vem na sequência
+  do levantamento feito pela Delegação Escolar de Câmara de Lobos, que constatou que
+  um número significativo de alunos não têm acesso a estes equipamentos, essenciais
+  para acompanhar o decorrer das atividades letivas, uma vez que as aulas presenciais
+  estão suspensas.
+
+
+  Os equipamentos poderão ser entregues na Biblioteca Municipal de Câmara de Lobos,
+  a partir de amanhã dia 7 de abril (terça feira) das 10h00às 16h00. Em alternativa,
+  empresas e privados poderão enviar email para geral@cm-camaradelobos.pt e a autarquia
+  procederá à recolha dos equipamentos Os mesmos serão recondicionados e entregues
+  aos alunos.'
+Destinatarios: alunos do concelho
+Email: geral@cm-camaradelobos.pt
+Link: https://www.facebook.com/municipiodecamaradelobos/photos/a.541842429230829/2907749369306778/?type=3&theater
+Nome: Câmara Municipal de Câmara de Lobos
+Notas_Legais: OK
+O_que: Computadores
+location: 32.649358 -16.979354 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19pt_issues/issues/40,601562649,2020-04-16 22:54:38,2020-04-16 22:47:52,#SESARAM #MADEIRA Contactos Úteis COVID 19,32.64836,-16.924294,,,"[""accepted"", ""form"", ""institutional sources"", ""useful contacts""]",,,"{""Finalidade"": ""Linha de Apoio ao Cidad\u00e3o: 291 705 763 (10h-16h) 961 186 549 (24h)\n     Hospital Dr. N\u00e9lio Mendon\u00e7a: 291 705 600\n     Hospital dos Marmeleiros: 291 705 730\n     Hospital Dr. Jo\u00e3o de Almada: 291 780 300\n\nLinha de Apoio \u00e0 Crian\u00e7a: 969 319 732 (24h)\n\nCentro de Desenvolvimento da Crian\u00e7a: 969 319 528 (09h-17h)\n\nFarm\u00e1cia Hospitalar: 291 705 613 (08h-18h, de segunda a sexta)\n\nOutros Contactos \u00fateis: Hospitais\n\nCENTROS DE SA\u00daDE COM ATENDIMENTO PRESENCIAL\n\nRibeira Brava: 291 950 200 (24h) |  969 377 112 (Atendimento m\u00e9dico 08h-20h) | 969 320 975 (atendimento m\u00e9dico 20h-08h)\nMachico: 291 969 132 (24h) | 969 380 433 (pr\u00e9-triagem 24h)\nBom Jesus: 291 208 745 | 969 377 014 (08h-20h) | 961 186 549 (24h)\n\nSRS24 . COVID: 800 24 24 20"", ""Link"": ""https://www.sesaram.pt/index.php?option=com_content&view=article&id=3466&Itemid=433"", ""Nome"": ""#SESARAM #MADEIRA CONTACTOS \u00daTEIS COVID 19"", ""Notas_Legais"": ""OK"", ""location"": ""32.64836 -16.924294 0 0""}","<pre><yamldata>
 Finalidade: ""Linha de Apoio ao Cidadão: 291 705 763 (10h-16h) 961 186 549 (24h)\n\
   \     Hospital Dr. Nélio Mendonça: 291 705 600\n     Hospital dos Marmeleiros: 291\
