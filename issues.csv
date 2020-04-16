@@ -1,4 +1,20 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19pt_issues/issues/40,601562649,2020-04-16 22:54:38,2020-04-16 22:47:52,#SESARAM #MADEIRA Contactos Úteis COVID 19,32.64836,-16.924294,,,"[""accepted"", ""form"", ""institutional sources"", ""useful contacts""]",,,"{""Finalidade"": ""Linha de Apoio ao Cidad\u00e3o: 291 705 763 (10h-16h) 961 186 549 (24h)\n     Hospital Dr. N\u00e9lio Mendon\u00e7a: 291 705 600\n     Hospital dos Marmeleiros: 291 705 730\n     Hospital Dr. Jo\u00e3o de Almada: 291 780 300\n\nLinha de Apoio \u00e0 Crian\u00e7a: 969 319 732 (24h)\n\nCentro de Desenvolvimento da Crian\u00e7a: 969 319 528 (09h-17h)\n\nFarm\u00e1cia Hospitalar: 291 705 613 (08h-18h, de segunda a sexta)\n\nOutros Contactos \u00fateis: Hospitais\n\nCENTROS DE SA\u00daDE COM ATENDIMENTO PRESENCIAL\n\nRibeira Brava: 291 950 200 (24h) |  969 377 112 (Atendimento m\u00e9dico 08h-20h) | 969 320 975 (atendimento m\u00e9dico 20h-08h)\nMachico: 291 969 132 (24h) | 969 380 433 (pr\u00e9-triagem 24h)\nBom Jesus: 291 208 745 | 969 377 014 (08h-20h) | 961 186 549 (24h)\n\nSRS24 . COVID: 800 24 24 20"", ""Link"": ""https://www.sesaram.pt/index.php?option=com_content&view=article&id=3466&Itemid=433"", ""Nome"": ""#SESARAM #MADEIRA CONTACTOS \u00daTEIS COVID 19"", ""Notas_Legais"": ""OK"", ""location"": ""32.64836 -16.924294 0 0""}","<pre><yamldata>
+Finalidade: ""Linha de Apoio ao Cidadão: 291 705 763 (10h-16h) 961 186 549 (24h)\n\
+  \     Hospital Dr. Nélio Mendonça: 291 705 600\n     Hospital dos Marmeleiros: 291\
+  \ 705 730\n     Hospital Dr. João de Almada: 291 780 300\n\nLinha de Apoio à Criança:\
+  \ 969 319 732 (24h)\n\nCentro de Desenvolvimento da Criança: 969 319 528 (09h-17h)\n\
+  \nFarmácia Hospitalar: 291 705 613 (08h-18h, de segunda a sexta)\n\nOutros Contactos\
+  \ úteis: Hospitais\n\nCENTROS DE SAÚDE COM ATENDIMENTO PRESENCIAL\n\nRibeira Brava:\
+  \ 291 950 200 (24h) |  969 377 112 (Atendimento médico 08h-20h) | 969 320 975 (atendimento\
+  \ médico 20h-08h)\nMachico: 291 969 132 (24h) | 969 380 433 (pré-triagem 24h)\n\
+  Bom Jesus: 291 208 745 | 969 377 014 (08h-20h) | 961 186 549 (24h)\n\nSRS24 . COVID:\
+  \ 800 24 24 20""
+Link: https://www.sesaram.pt/index.php?option=com_content&view=article&id=3466&Itemid=433
+Nome: '#SESARAM #MADEIRA CONTACTOS ÚTEIS COVID 19'
+Notas_Legais: OK
+location: 32.64836 -16.924294 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19pt_issues/issues/39,601553325,2020-04-16 22:52:59,2020-04-16 22:34:32,SOSvizinho - projeto online para organizar uma rede de apoio a grupos de risco #Portugal,,,,,"[""Missing position"", ""accepted"", ""bulletin"", ""form"", ""private solidarity services and initiatives"", ""useful contacts"", ""useful data""]",,,"{""Finalidade"": ""O SOSvizinho \u00e9 um projeto que juntou at\u00e9 agora mais de uma centena de especialistas de v\u00e1rias \u00e1reas e zonas do pa\u00eds, para organizar uma rede de apoio a grupos de risco que neste momento se devem encontrar em isolamento social. O projeto surgiu online, organizou-se remotamente e lan\u00e7ou-se em 48 horas.\n\nO objetivo \u00e9 ajudar a sinalizar os grupos/doentes de risco de cada regi\u00e3o e criar uma rede de distribui\u00e7\u00e3o, atrav\u00e9s de volunt\u00e1rios que se inscrevem online. O SOSvizinho pretende, assim, fazer chegar a estas pessoas os bens essenciais que necessitam, evitando que saiam das suas casas e, consequentemente, estejam mais expostas."", ""Link"": ""https://sosvizinho.pt/"", ""Nome"": ""SOSvizinho"", ""Notas_Legais"": ""OK""}","<pre><yamldata>
 Finalidade: 'O SOSvizinho é um projeto que juntou até agora mais de uma centena de
   especialistas de várias áreas e zonas do país, para organizar uma rede de apoio
