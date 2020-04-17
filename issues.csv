@@ -1,4 +1,20 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19pt_issues/issues/46,602298082,2020-04-17 23:54:22,2020-04-17 23:46:16,Linha Apoio psicológico #Fundão,40.138061,-7.500513,,,"[""accepted"", ""form"", ""psychological support"", ""public solidarity services and initiatives"", ""solidarity initiatives""]",,,"{""Destinatarios"": ""pessoas que sofrem de isolamento, ang\u00fastia, ansiedade e incerteza quanto ao futuro"", ""Link"": ""https://covid19.starje.pt/in/apoio-psicologico/"", ""Notas_Legais"": ""OK"", ""O_que"": ""Face \u00e0 evolu\u00e7\u00e3o dram\u00e1tica da pandemia COVID-19, que tem originado nas pessoas, em particular aquelas que sofrem de isolamento, ang\u00fastia, ansiedade e incerteza quanto ao futuro, o Munic\u00edpio do Fund\u00e3o criou uma linha especial de apoio psicol\u00f3gico atrav\u00e9s dos seguintes canais:\n\nFacebook\n(https://www.facebook.com/apoiopsicologicomunfnd)\n\nSkype\n( apoiopsicologicomunfnd@cm-fundao.pt) \n\nTelefone 969 427 024"", ""Oferente"": ""Apoio psicol\u00f3gico"", ""Tipo_de_entidade"": ""p\u00fablico"", ""Tipo_de_iniciativa"": ""solidariedade"", ""Titulo"": ""Apoio psicol\u00f3gico Fund\u00e3o"", ""location"": ""40.138061 -7.500513 0 0""}","<pre><yamldata>
+Destinatarios: pessoas que sofrem de isolamento, angústia, ansiedade e incerteza quanto
+  ao futuro
+Link: https://covid19.starje.pt/in/apoio-psicologico/
+Notas_Legais: OK
+O_que: ""Face à evolução dramática da pandemia COVID-19, que tem originado nas pessoas,\
+  \ em particular aquelas que sofrem de isolamento, angústia, ansiedade e incerteza\
+  \ quanto ao futuro, o Município do Fundão criou uma linha especial de apoio psicológico\
+  \ através dos seguintes canais:\n\nFacebook\n(https://www.facebook.com/apoiopsicologicomunfnd)\n\
+  \nSkype\n( apoiopsicologicomunfnd@cm-fundao.pt) \n\nTelefone 969 427 024""
+Oferente: Apoio psicológico
+Tipo_de_entidade: público
+Tipo_de_iniciativa: solidariedade
+Titulo: Apoio psicológico Fundão
+location: 40.138061 -7.500513 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19pt_issues/issues/45,602296311,2020-04-17 23:53:05,2020-04-17 23:44:00,Linha de apoio aos residentes com mais de 65 anos`#Fundão,40.138064,-7.500556,,,"[""accepted"", ""form"", ""initiative"", ""public solidarity services and initiatives"", ""solidarity initiatives""]",,,"{""Destinatarios"": ""residentes com mais de 65 anos, com necessidades especiais ou doen\u00e7a cr\u00f3nica comprovada"", ""Link"": ""https://covid19.starje.pt/in/maiores-de-65-anos/"", ""Notas_Legais"": ""OK"", ""O_que"": ""No \u00e2mbito do Plano de Conting\u00eancia da autarquia ao COVID-19, o Munic\u00edpio do Fund\u00e3o estabeleceu, desde o dia 14 de mar\u00e7o, uma linha de apoio aos residentes com mais de 65 anos, com necessidades especiais ou doen\u00e7a cr\u00f3nica comprovada, que permitir\u00e1 garantir o fornecimento ao domic\u00edlio de bens essenciais de supermercado, medicamentos e outros.\n\nPara poder aceder a este apoio dever\u00e1 ligar para 961 382 115 ou 275 779 060 (ext. 331)."", ""Oferente"": ""linha de apoio aos residentes com mais de 65 anos"", ""Tipo_de_entidade"": ""p\u00fablico"", ""Tipo_de_iniciativa"": ""solidariedade"", ""location"": ""40.138064 -7.500556 0 0""}","<pre><yamldata>
 Destinatarios: residentes com mais de 65 anos, com necessidades especiais ou doença
   crónica comprovada
