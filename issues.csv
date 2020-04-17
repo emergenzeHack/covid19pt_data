@@ -1,4 +1,22 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19pt_issues/issues/44,602290644,2020-04-17 23:38:53,2020-04-17 23:37:06,Plataforma com todos os serviços abertos no concelho do #Fundão,40.138068,-7.500519,,,"[""accepted"", ""deliveries and services"", ""form"", ""public solidarity services and initiatives"", ""useful contacts"", ""work and business support""]",,,"{""Finalidade"": ""No \u00e2mbito do Plano de Conting\u00eancia da autarquia ao COVID-19, o Munic\u00edpio do Fund\u00e3o, em parceria com a Associa\u00e7\u00e3o Comercial e Industrial do Concelho do Fund\u00e3o (ACICF) e a empresa STAR JE, criou uma plataforma com todos os servi\u00e7os abertos no concelho do Fund\u00e3o, informa\u00e7\u00f5es sobre esta pandemia e avisos de Prote\u00e7\u00e3o Civil.\n\nA plataforma est\u00e1 dispon\u00edvel em http://covid-19.cm-fundao.pt e pretende ser uma ferramenta de apoio aos cidad\u00e3os.\n\nOs servi\u00e7os abertos que ainda n\u00e3o constem na plataforma poder\u00e3o incluir as suas informa\u00e7\u00f5es, que automaticamente ficar\u00e3o dispon\u00edveis."", ""Link"": ""http://covid-19.cm-fundao.pt/"", ""Nome"": ""O que est\u00e1 aberto no Fund\u00e3o?"", ""Notas_Legais"": ""OK"", ""location"": ""40.138068 -7.500519 0 0""}","<pre><yamldata>
+Finalidade: 'No âmbito do Plano de Contingência da autarquia ao COVID-19, o Município
+  do Fundão, em parceria com a Associação Comercial e Industrial do Concelho do Fundão
+  (ACICF) e a empresa STAR JE, criou uma plataforma com todos os serviços abertos
+  no concelho do Fundão, informações sobre esta pandemia e avisos de Proteção Civil.
+
+
+  A plataforma está disponível em http://covid-19.cm-fundao.pt e pretende ser uma
+  ferramenta de apoio aos cidadãos.
+
+
+  Os serviços abertos que ainda não constem na plataforma poderão incluir as suas
+  informações, que automaticamente ficarão disponíveis.'
+Link: http://covid-19.cm-fundao.pt/
+Nome: O que está aberto no Fundão?
+Notas_Legais: OK
+location: 40.138068 -7.500519 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19pt_issues/issues/43,602283838,2020-04-17 23:27:05,2020-04-17 23:25:08,Biblioteca Municipal de #Machico entrega livros ao domicílio #Madeira,32.718538,-16.767282,,,"[""accepted"", ""cultural activities and leisure"", ""deliveries and services"", ""entrega"", ""form"", ""public solidarity services and initiatives"", ""solidarity initiatives""]",,,"{""Destinatarios"": ""Popula\u00e7\u00e3o de Machico"", ""Link"": ""https://www.cm-machico.pt/index.php/pages/news/43"", ""Notas_Legais"": ""OK"", ""O_que"": ""A partir de segunda-feira, dia 6 de abril, a Biblioteca Municipal de Machico - Francisco \u00c1lvares de N\u00f3brega passar\u00e1 a disponibilizar \u00e0 popula\u00e7\u00e3o um servi\u00e7o de requisi\u00e7\u00e3o de livros a partir de sua casa. Pensada pela C\u00e2mara Municipal de Machico, a iniciativa visa que nesta fase de isolamento social se continue a manter os h\u00e1bitos de leitura, ocupando assim os tempos livros, mas tamb\u00e9m auxiliar os estudantes que necessitem de aceder \u00e0 bibliografia solicitada pelos docentes para realizarem os seus trabalhos.\nImporta referir que a bibliografia solicitada ir\u00e1 chegar ao domic\u00edlio de cada um pelas m\u00e3os de uma equipa de volunt\u00e1rios. Para tal, os interessados dever\u00e3o preencher um formul\u00e1rio de requisi\u00e7\u00e3o, presente no seguinte link: https://docs.google.com/\u2026/1FAIpQLSfan0wPsSR2NalJF\u2026/viewform\u2026\n\nPara as pessoas que n\u00e3o t\u00eam aceso \u00e0 internet, a C\u00e2mara Municipal de Machico informa ainda que poder\u00e3o ligar para o 291969997 e realizar o seu pedido via telef\u00f3nica."", ""Oferente"": ""entrega livros ao domic\u00edlio"", ""Tipo_de_iniciativa"": ""cultural-recre"", ""Titulo"": ""Biblioteca Municipal de Machico entrega livros ao domic\u00edlio"", ""location"": ""32.718538 -16.767282 0 0""}","<pre><yamldata>
 Destinatarios: População de Machico
 Link: https://www.cm-machico.pt/index.php/pages/news/43
