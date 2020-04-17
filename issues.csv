@@ -1,4 +1,26 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19pt_issues/issues/48,602302268,2020-04-17 23:56:43,2020-04-17 23:51:34,solidarity initiatives,40.138053,-7.500578,,,"[""accepted"", ""form"", ""public solidarity services and initiatives"", ""solidarity initiatives"", ""work and business support""]",,,"{""Destinatarios"": ""volunt\u00e1rios com menos 50 anos de idade de diversas \u00e1reas"", ""Link"": ""https://covid19.starje.pt/in/bolsa-voluntarios/"", ""Notas_Legais"": ""OK"", ""O_que"": ""No \u00e2mbito do Plano de Conting\u00eancia da autarquia ao COVID-19, o Munic\u00edpio do Fund\u00e3o est\u00e1 a criar uma Bolsa de Volunt\u00e1rios dirigida a todos os dispon\u00edveis que queiram colaborar e prestar apoio em caso de necessidade a lares/apoio domicili\u00e1rio e outros servi\u00e7os.\n\nEste programa \u00e9 dirigido a volunt\u00e1rios com menos 50 anos de idade de diversas \u00e1reas, com principal destaque para farm\u00e1cia, enfermagem, psicologia, geriatria, t\u00e9cnicos de servi\u00e7o social, anima\u00e7\u00e3o, servi\u00e7os gerais, entre outros.\n\nPara integrar esta bolsa dever\u00e1 utilizar os contactos telef\u00f3nicos 961 382 115 ou 275 779 060 (Ext. 331) ou o e-mail acaosocial@cm-fundao.pt."", ""Oferente"": ""Bolsa Volunt\u00e1rios"", ""Tipo_de_iniciativa"": ""trabalho-empre"", ""Titulo"": ""Munic\u00edpio do Fund\u00e3o - Bolsa de Volunt\u00e1rios"", ""location"": ""40.138053 -7.500578 0 0""}","<pre><yamldata>
+Destinatarios: voluntários com menos 50 anos de idade de diversas áreas
+Link: https://covid19.starje.pt/in/bolsa-voluntarios/
+Notas_Legais: OK
+O_que: 'No âmbito do Plano de Contingência da autarquia ao COVID-19, o Município do
+  Fundão está a criar uma Bolsa de Voluntários dirigida a todos os disponíveis que
+  queiram colaborar e prestar apoio em caso de necessidade a lares/apoio domiciliário
+  e outros serviços.
+
+
+  Este programa é dirigido a voluntários com menos 50 anos de idade de diversas áreas,
+  com principal destaque para farmácia, enfermagem, psicologia, geriatria, técnicos
+  de serviço social, animação, serviços gerais, entre outros.
+
+
+  Para integrar esta bolsa deverá utilizar os contactos telefónicos 961 382 115 ou
+  275 779 060 (Ext. 331) ou o e-mail acaosocial@cm-fundao.pt.'
+Oferente: Bolsa Voluntários
+Tipo_de_iniciativa: trabalho-empre
+Titulo: Município do Fundão - Bolsa de Voluntários
+location: 40.138053 -7.500578 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19pt_issues/issues/47,602299395,2020-04-17 23:55:31,2020-04-17 23:47:54,Linha de Apoio às Empresas #Fundão,40.138045,-7.500551,,,"[""accepted"", ""form"", ""public solidarity services and initiatives"", ""solidarity initiatives"", ""useful contacts"", ""work and business support""]",,,"{""Destinatarios"": ""Empresas"", ""Link"": ""https://covid19.starje.pt/in/apoio-empresas/"", ""Notas_Legais"": ""OK"", ""O_que"": ""Face \u00e0 evolu\u00e7\u00e3o da pandemia COVID-19, que tem criado dificuldades ao tecido empresarial, o Munic\u00edpio do Fund\u00e3o criou uma Linha de Apoio \u00e0s Empresas, atrav\u00e9s dos contactos telef\u00f3nicos 969 160 645 e 275 771 478 ou do e-mail dii@cm-fundao.pt.\n\nNesta linha poder\u00e1 obter mais informa\u00e7\u00f5es sobre as medidas excecionais adotadas recentemente como resposta \u00e0 COVID-19."", ""Oferente"": ""Linha de Apoio \u00e0s Empresas"", ""Tipo_de_iniciativa"": ""trabalho-empre"", ""location"": ""40.138045 -7.500551 0 0""}","<pre><yamldata>
 Destinatarios: Empresas
 Link: https://covid19.starje.pt/in/apoio-empresas/
