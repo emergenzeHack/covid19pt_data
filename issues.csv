@@ -1,4 +1,19 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19pt_issues/issues/47,602299395,2020-04-17 23:55:31,2020-04-17 23:47:54,Linha de Apoio às Empresas #Fundão,40.138045,-7.500551,,,"[""accepted"", ""form"", ""public solidarity services and initiatives"", ""solidarity initiatives"", ""useful contacts"", ""work and business support""]",,,"{""Destinatarios"": ""Empresas"", ""Link"": ""https://covid19.starje.pt/in/apoio-empresas/"", ""Notas_Legais"": ""OK"", ""O_que"": ""Face \u00e0 evolu\u00e7\u00e3o da pandemia COVID-19, que tem criado dificuldades ao tecido empresarial, o Munic\u00edpio do Fund\u00e3o criou uma Linha de Apoio \u00e0s Empresas, atrav\u00e9s dos contactos telef\u00f3nicos 969 160 645 e 275 771 478 ou do e-mail dii@cm-fundao.pt.\n\nNesta linha poder\u00e1 obter mais informa\u00e7\u00f5es sobre as medidas excecionais adotadas recentemente como resposta \u00e0 COVID-19."", ""Oferente"": ""Linha de Apoio \u00e0s Empresas"", ""Tipo_de_iniciativa"": ""trabalho-empre"", ""location"": ""40.138045 -7.500551 0 0""}","<pre><yamldata>
+Destinatarios: Empresas
+Link: https://covid19.starje.pt/in/apoio-empresas/
+Notas_Legais: OK
+O_que: 'Face à evolução da pandemia COVID-19, que tem criado dificuldades ao tecido
+  empresarial, o Município do Fundão criou uma Linha de Apoio às Empresas, através
+  dos contactos telefónicos 969 160 645 e 275 771 478 ou do e-mail dii@cm-fundao.pt.
+
+
+  Nesta linha poderá obter mais informações sobre as medidas excecionais adotadas
+  recentemente como resposta à COVID-19.'
+Oferente: Linha de Apoio às Empresas
+Tipo_de_iniciativa: trabalho-empre
+location: 40.138045 -7.500551 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19pt_issues/issues/46,602298082,2020-04-17 23:54:22,2020-04-17 23:46:16,Linha Apoio psicológico #Fundão,40.138061,-7.500513,,,"[""accepted"", ""form"", ""psychological support"", ""public solidarity services and initiatives"", ""solidarity initiatives""]",,,"{""Destinatarios"": ""pessoas que sofrem de isolamento, ang\u00fastia, ansiedade e incerteza quanto ao futuro"", ""Link"": ""https://covid19.starje.pt/in/apoio-psicologico/"", ""Notas_Legais"": ""OK"", ""O_que"": ""Face \u00e0 evolu\u00e7\u00e3o dram\u00e1tica da pandemia COVID-19, que tem originado nas pessoas, em particular aquelas que sofrem de isolamento, ang\u00fastia, ansiedade e incerteza quanto ao futuro, o Munic\u00edpio do Fund\u00e3o criou uma linha especial de apoio psicol\u00f3gico atrav\u00e9s dos seguintes canais:\n\nFacebook\n(https://www.facebook.com/apoiopsicologicomunfnd)\n\nSkype\n( apoiopsicologicomunfnd@cm-fundao.pt) \n\nTelefone 969 427 024"", ""Oferente"": ""Apoio psicol\u00f3gico"", ""Tipo_de_entidade"": ""p\u00fablico"", ""Tipo_de_iniciativa"": ""solidariedade"", ""Titulo"": ""Apoio psicol\u00f3gico Fund\u00e3o"", ""location"": ""40.138061 -7.500513 0 0""}","<pre><yamldata>
 Destinatarios: pessoas que sofrem de isolamento, angústia, ansiedade e incerteza quanto
   ao futuro
