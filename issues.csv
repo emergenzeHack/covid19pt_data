@@ -1,4 +1,65 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19pt_issues/issues/49,602494193,2020-04-18 16:16:51,2020-04-18 16:09:05,Câmara Municipal de #Évora: medidas de apoio à economia local,38.572418,-7.909276,,,"[""accepted"", ""form"", ""public solidarity services and initiatives"", ""solidarity initiatives"", ""work and business support""]",,,"{""Destinatarios"": ""empresas que operam na \u00e1rea do Concelho de \u00c9vora"", ""Link"": ""http://www.cm-evora.pt/pt/Evora-Noticias/arquivo/Paginas/C%C3%82MARA-MUNICIPAL-PROMOVE-MEDIDAS-DE-APOIO-%C3%80-ECONOMIA-LOCAL.aspx"", ""Notas_Legais"": ""OK"", ""O_que"": ""Os efeitos negativos da Pandemia COVID 19 na atividade econ\u00f3mica t\u00eam vindo a ser acompanhados pela C\u00e2mara Municipal de \u00c9vora com especial aten\u00e7\u00e3o. A suspens\u00e3o for\u00e7ada da atividade em diversos setores da economia, em consequ\u00eancia das medidas de conten\u00e7\u00e3o adotadas, tem trazido fortes dificuldades financeiras a muitas empresas, colocando inclusivamente algumas delas em risco de sobreviv\u00eancia.\n\nAtenta \u00e0 situa\u00e7\u00e3o de extrema dificuldade que afeta um grande n\u00famero de empresas, nomeadamente as que operam na \u00e1rea do Concelho de \u00c9vora, a C\u00e2mara Municipal decidiu implementar as medidas de apoio poss\u00edveis que, no \u00e2mbito das suas compet\u00eancias, possam vir a atenuar algumas das dificuldades.\n\nNeste quadro, durante o tempo que durar a atual crise pand\u00e9mica:\n\nN\u00e3o ser\u00e3o cobradas as taxas correspondentes \u00e0 ocupa\u00e7\u00e3o de espa\u00e7o p\u00fablico;\nN\u00e3o ser\u00e3o cobrados juros pelo atraso no pagamento de \u00e1gua, nem executados cortes ao abastecimento em consequ\u00eancia da falta de liquida\u00e7\u00e3o de faturas;\nConvers\u00e3o em cr\u00e9dito das import\u00e2ncias j\u00e1 cobradas a empresas cuja atividade foi for\u00e7ada a cessar em consequ\u00eancia das medidas de combate ao COVID-19.\nEventuais esclarecimentos relacionados com a execu\u00e7\u00e3o pr\u00e1tica deste conjunto de medidas dever\u00e3o ser solicitados aos Servi\u00e7os Municipais, preferencialmente on-line, ou atrav\u00e9s de e-mail ou telefone. Poder\u00e1 aceder aos contactos na p\u00e1gina oficial do Munic\u00edpio em http://www.cm-evora.pt/pt/municipio/contatos.\nEspecificamente para o turismo, por ser uma das atividades econ\u00f3micas com maior peso na economia local e regional, e tendo sido das mais afetadas em consequ\u00eancia do combate \u00e0 pandemia, deixamos tamb\u00e9m informa\u00e7\u00e3o \u00fatil aos agentes econ\u00f3micos que neste setor estar\u00e3o a passar por dificuldades. Assim, atrav\u00e9s do Turismo de Portugal est\u00e1 j\u00e1 em vigor um conjunto de \""Linhas Espec\u00edficas \u2013 COVID-19\"":\nLinha de Apoio \u00e0 Economia COVID-19\nApoio a Empresas da Restaura\u00e7\u00e3o e similares\nApoio a Empresas do Turismo (incluindo empreendimentos tur\u00edsticos e alojamento para turistas)\nApoio a Ag\u00eancias de Viagens, Anima\u00e7\u00e3o Tur\u00edstica, Organiza\u00e7\u00e3o de Eventos e similares\nLinha de Apoio \u00e0 Tesouraria para Microempresas do Turismo\nLinha de Cr\u00e9dito COVID-19/ Capitalizar 2018\nA informa\u00e7\u00e3o completa pode ser consultada em http://business.turismodeportugal.pt.\nRelativamente \u00e0s medidas de \u00e2mbito geral para apoio \u00e0 atividade econ\u00f3mica em vigor a n\u00edvel nacional, poder\u00e1 obter toda a informa\u00e7\u00e3o em https://covid19estamoson.gov.pt/medidas-de-apoio-emprego-empresas/"", ""Oferente"": ""medidas de apoio \u00e0 economia local"", ""Tipo_de_iniciativa"": ""trabalho-empre"", ""Titulo"": ""C\u00e2mara Municipal de \u00c9vora promove medidas de apoio \u00e0 economia local"", ""location"": ""38.572418 -7.909276 0 0""}","<pre><yamldata>
+Destinatarios: empresas que operam na área do Concelho de Évora
+Link: http://www.cm-evora.pt/pt/Evora-Noticias/arquivo/Paginas/C%C3%82MARA-MUNICIPAL-PROMOVE-MEDIDAS-DE-APOIO-%C3%80-ECONOMIA-LOCAL.aspx
+Notas_Legais: OK
+O_que: 'Os efeitos negativos da Pandemia COVID 19 na atividade económica têm vindo
+  a ser acompanhados pela Câmara Municipal de Évora com especial atenção. A suspensão
+  forçada da atividade em diversos setores da economia, em consequência das medidas
+  de contenção adotadas, tem trazido fortes dificuldades financeiras a muitas empresas,
+  colocando inclusivamente algumas delas em risco de sobrevivência.
+
+
+  Atenta à situação de extrema dificuldade que afeta um grande número de empresas,
+  nomeadamente as que operam na área do Concelho de Évora, a Câmara Municipal decidiu
+  implementar as medidas de apoio possíveis que, no âmbito das suas competências,
+  possam vir a atenuar algumas das dificuldades.
+
+
+  Neste quadro, durante o tempo que durar a atual crise pandémica:
+
+
+  Não serão cobradas as taxas correspondentes à ocupação de espaço público;
+
+  Não serão cobrados juros pelo atraso no pagamento de água, nem executados cortes
+  ao abastecimento em consequência da falta de liquidação de faturas;
+
+  Conversão em crédito das importâncias já cobradas a empresas cuja atividade foi
+  forçada a cessar em consequência das medidas de combate ao COVID-19.
+
+  Eventuais esclarecimentos relacionados com a execução prática deste conjunto de
+  medidas deverão ser solicitados aos Serviços Municipais, preferencialmente on-line,
+  ou através de e-mail ou telefone. Poderá aceder aos contactos na página oficial
+  do Município em http://www.cm-evora.pt/pt/municipio/contatos.
+
+  Especificamente para o turismo, por ser uma das atividades económicas com maior
+  peso na economia local e regional, e tendo sido das mais afetadas em consequência
+  do combate à pandemia, deixamos também informação útil aos agentes económicos que
+  neste setor estarão a passar por dificuldades. Assim, através do Turismo de Portugal
+  está já em vigor um conjunto de ""Linhas Específicas – COVID-19"":
+
+  Linha de Apoio à Economia COVID-19
+
+  Apoio a Empresas da Restauração e similares
+
+  Apoio a Empresas do Turismo (incluindo empreendimentos turísticos e alojamento para
+  turistas)
+
+  Apoio a Agências de Viagens, Animação Turística, Organização de Eventos e similares
+
+  Linha de Apoio à Tesouraria para Microempresas do Turismo
+
+  Linha de Crédito COVID-19/ Capitalizar 2018
+
+  A informação completa pode ser consultada em http://business.turismodeportugal.pt.
+
+  Relativamente às medidas de âmbito geral para apoio à atividade económica em vigor
+  a nível nacional, poderá obter toda a informação em https://covid19estamoson.gov.pt/medidas-de-apoio-emprego-empresas/'
+Oferente: medidas de apoio à economia local
+Tipo_de_iniciativa: trabalho-empre
+Titulo: Câmara Municipal de Évora promove medidas de apoio à economia local
+location: 38.572418 -7.909276 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19pt_issues/issues/48,602302268,2020-04-18 15:49:13,2020-04-17 23:51:34,Município do #Fundão - Bolsa de Voluntários,40.138053,-7.500578,,,"[""accepted"", ""form"", ""public solidarity services and initiatives"", ""solidarity initiatives"", ""work and business support""]",,,"{""Destinatarios"": ""volunt\u00e1rios com menos 50 anos de idade de diversas \u00e1reas"", ""Link"": ""https://covid19.starje.pt/in/bolsa-voluntarios/"", ""Notas_Legais"": ""OK"", ""O_que"": ""No \u00e2mbito do Plano de Conting\u00eancia da autarquia ao COVID-19, o Munic\u00edpio do Fund\u00e3o est\u00e1 a criar uma Bolsa de Volunt\u00e1rios dirigida a todos os dispon\u00edveis que queiram colaborar e prestar apoio em caso de necessidade a lares/apoio domicili\u00e1rio e outros servi\u00e7os.\n\nEste programa \u00e9 dirigido a volunt\u00e1rios com menos 50 anos de idade de diversas \u00e1reas, com principal destaque para farm\u00e1cia, enfermagem, psicologia, geriatria, t\u00e9cnicos de servi\u00e7o social, anima\u00e7\u00e3o, servi\u00e7os gerais, entre outros.\n\nPara integrar esta bolsa dever\u00e1 utilizar os contactos telef\u00f3nicos 961 382 115 ou 275 779 060 (Ext. 331) ou o e-mail acaosocial@cm-fundao.pt."", ""Oferente"": ""Bolsa Volunt\u00e1rios"", ""Tipo_de_iniciativa"": ""trabalho-empre"", ""Titulo"": ""Munic\u00edpio do Fund\u00e3o - Bolsa de Volunt\u00e1rios"", ""location"": ""40.138053 -7.500578 0 0""}","<pre><yamldata>
 Destinatarios: voluntários com menos 50 anos de idade de diversas áreas
 Link: https://covid19.starje.pt/in/bolsa-voluntarios/
