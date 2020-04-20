@@ -1,4 +1,52 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/covid19pt_issues/issues/53,603466263,2020-04-20 19:10:08,2020-04-20 19:07:53,"#PontaDelgada, #Azores: espaço para acolhimento de pessoas sem abrigo",37.738838,-25.669363,,,"[""accepted"", ""form"", ""institutional sources"", ""public solidarity services and initiatives"", ""solidarity initiatives"", ""useful news""]",,,"{""Destinatarios"": ""pessoas sem abrigo"", ""Link"": ""http://www.cm-pontadelgada.pt/pages/541?news_id=2450"", ""Notas_Legais"": ""OK"", ""O_que"": ""A C\u00e2mara de Ponta Delgada est\u00e1 a desenvolver novas formas de coopera\u00e7\u00e3o com o governo regional para combater a pandemia Covid-19 no concelho a\u00e7oriano com maior n\u00famero de casos confirmados.\nNa sequ\u00eancia imediata da confirma\u00e7\u00e3o de um primeiro caso de infe\u00e7\u00e3o entre a popula\u00e7\u00e3o sem abrigo de Ponta Delgada, a autarquia assegurou instala\u00e7\u00f5es que poder\u00e3o acolher cerca de 40 pessoas para acompanhamento espec\u00edfico.\nTrata-se da Casa do Escuteiro, na freguesia de Santa Clara, disponibilizada em parceria com a Junta do N\u00facleo de S\u00e3o Miguel do Corpo Nacional de Escutas.\nO Vereador da A\u00e7\u00e3o Social da C\u00e2mara Municipal de Ponta Delgada, Paulo Mendes, na resposta ao pedido feito \u00e0 Autarquia pelo Instituto de Seguran\u00e7a Social dos A\u00e7ores, afirma que \""decorrente da atual situa\u00e7\u00e3o e da necessidade de conjuga\u00e7\u00e3o de esfor\u00e7os e meios, a nossa Autarquia est\u00e1 dispon\u00edvel para ceder o espa\u00e7o para o acolhimento das pessoas mais vulner\u00e1veis, bem como garantir as respetivas refei\u00e7\u00f5es.\nContudo, para a seguran\u00e7a da popula\u00e7\u00e3o em geral e para que a quarentena seja respeitada por todos os utentes, a ced\u00eancia do espa\u00e7o implica a garantia de policiamento permanente no mesmo.\nParalelamente, Paulo Mendes solicitou ainda o acompanhamento de profissionais de sa\u00fade junto dos utentes dependentes de algum tipo de consumo e/ou com patologia associada, assim como de uma equipa qualificada de uma das associa\u00e7\u00f5es que trabalha na \u00e1rea, por forma a garantir a gest\u00e3o do espa\u00e7o e dos utentes.\nAinda segundo o Vereador da A\u00e7\u00e3o Social da C\u00e2mara Municipal de Ponta Delgada, \""face ao potencial do cont\u00e1gio, sobretudo depois de identificado um caso positivo, \u00e9 de mais absoluta import\u00e2ncia que se realize com urg\u00eancia os testes junto deste p\u00fablico mais vulner\u00e1vel do concelho de Ponta Delgada, para que os servi\u00e7os competentes da da \u00e1rea da sa\u00fade possam decidir sobre as condi\u00e7\u00f5es da quarentena\"".\nN\u00e3o existindo outras alternativas, adianta o respons\u00e1vel aut\u00e1rquico, a quarentena dever\u00e1 ser feita de forma compulsiva.\n\""A C\u00e2mara Municipal de Ponta Delgada est\u00e1 completamente dispon\u00edvel para, em articula\u00e7\u00e3o com os vossos servi\u00e7os, encontrarmos as melhores solu\u00e7\u00f5es com vista a uma resposta r\u00e1pida e integrada\"" - conclui o e-mail enviado por Paulo Mendes."", ""Oferente"": ""espa\u00e7o para acolhimento de pessoas sem abrigo"", ""Tipo_de_entidade"": ""p\u00fablico"", ""Tipo_de_iniciativa"": ""solidariedade"", ""Titulo"": ""C\u00e2mara de Ponta Delgada cede espa\u00e7o para acolhimento de pessoas sem abrigo"", ""location"": ""37.738838 -25.669363 0 0""}","<pre><yamldata>
+Destinatarios: pessoas sem abrigo
+Link: http://www.cm-pontadelgada.pt/pages/541?news_id=2450
+Notas_Legais: OK
+O_que: 'A Câmara de Ponta Delgada está a desenvolver novas formas de cooperação com
+  o governo regional para combater a pandemia Covid-19 no concelho açoriano com maior
+  número de casos confirmados.
+
+  Na sequência imediata da confirmação de um primeiro caso de infeção entre a população
+  sem abrigo de Ponta Delgada, a autarquia assegurou instalações que poderão acolher
+  cerca de 40 pessoas para acompanhamento específico.
+
+  Trata-se da Casa do Escuteiro, na freguesia de Santa Clara, disponibilizada em parceria
+  com a Junta do Núcleo de São Miguel do Corpo Nacional de Escutas.
+
+  O Vereador da Ação Social da Câmara Municipal de Ponta Delgada, Paulo Mendes, na
+  resposta ao pedido feito à Autarquia pelo Instituto de Segurança Social dos Açores,
+  afirma que ""decorrente da atual situação e da necessidade de conjugação de esforços
+  e meios, a nossa Autarquia está disponível para ceder o espaço para o acolhimento
+  das pessoas mais vulneráveis, bem como garantir as respetivas refeições.
+
+  Contudo, para a segurança da população em geral e para que a quarentena seja respeitada
+  por todos os utentes, a cedência do espaço implica a garantia de policiamento permanente
+  no mesmo.
+
+  Paralelamente, Paulo Mendes solicitou ainda o acompanhamento de profissionais de
+  saúde junto dos utentes dependentes de algum tipo de consumo e/ou com patologia
+  associada, assim como de uma equipa qualificada de uma das associações que trabalha
+  na área, por forma a garantir a gestão do espaço e dos utentes.
+
+  Ainda segundo o Vereador da Ação Social da Câmara Municipal de Ponta Delgada, ""face
+  ao potencial do contágio, sobretudo depois de identificado um caso positivo, é de
+  mais absoluta importância que se realize com urgência os testes junto deste público
+  mais vulnerável do concelho de Ponta Delgada, para que os serviços competentes da
+  da área da saúde possam decidir sobre as condições da quarentena"".
+
+  Não existindo outras alternativas, adianta o responsável autárquico, a quarentena
+  deverá ser feita de forma compulsiva.
+
+  ""A Câmara Municipal de Ponta Delgada está completamente disponível para, em articulação
+  com os vossos serviços, encontrarmos as melhores soluções com vista a uma resposta
+  rápida e integrada"" - conclui o e-mail enviado por Paulo Mendes.'
+Oferente: espaço para acolhimento de pessoas sem abrigo
+Tipo_de_entidade: público
+Tipo_de_iniciativa: solidariedade
+Titulo: Câmara de Ponta Delgada cede espaço para acolhimento de pessoas sem abrigo
+location: 37.738838 -25.669363 0 0
+</yamldata></pre>",open
 https://github.com/emergenzeHack/covid19pt_issues/issues/52,603447357,2020-04-20 18:57:11,2020-04-20 18:35:26,#VilaReal ON - plataforma com informação empresas em funcionamento,41.294303,-7.746327,,,"[""accepted"", ""form"", ""institutional sources"", ""solidarity initiatives"", ""work and business support""]",,,"{""Destinatarios"": ""cidad\u00e3os e empresas"", ""Link"": ""https://vilarealon.cm-vilareal.pt"", ""Notas_Legais"": ""OK"", ""O_que"": ""A atual pandemia de COVID-19 tem alterado profundamente a nossa maneira de viver e trabalhar. Todos somos aconselhados a ficar em casa para evitar a propaga\u00e7\u00e3o da doen\u00e7a, mas h\u00e1 bens e servi\u00e7os de que necessitamos. Por outro lado, \u00e9 importante que as empresas mantenham a sua atividade, consigam dinamizar a economia e preservar os empregos.\n\nPor tudo isto, o Munic\u00edpio de Vila Real e o Regia Douro Park uniram esfor\u00e7os no sentido de lan\u00e7ar um programa que entendemos ser uma mais-valia para todos n\u00f3s, cidad\u00e3os e empresas: Vila Real ON - N\u00e3o Paramos. Ao longo dos pr\u00f3ximos dias ser\u00e3o anunciadas as v\u00e1rias vertentes deste programa.\n\nA primeira iniciativa deste programa \u00e9 esta plataforma, com a qual pretendemos agregar informa\u00e7\u00e3o relativa \u00e0s empresas que est\u00e3o em funcionamento, descrevendo em que moldes ocorre esse funcionamento. Esta informa\u00e7\u00e3o ser\u00e1 recolhida para posteriormente ser disponibilizada aos cidad\u00e3os, atrav\u00e9s desta plataforma online e  futuramente de uma App.\n\nAssim, todos os estabelecimentos que pretendam figurar nesta plataforma devem preencher o formul\u00e1rio dispon\u00edvel atrav\u00e9s deste link. Em alternativa, poder\u00e3o entrar em contacto com a equipa Vila Real ON, atrav\u00e9s do e-mail vilarealon@regiadouro.com e do n\u00famero de telefone 259 308 200 (dias \u00fateis, entre as 9h00 e as 18h00)."", ""Oferente"": ""plataforma com informa\u00e7\u00e3o relativa \u00e0s empresas que est\u00e3o em funcionamento"", ""Tipo_de_iniciativa"": ""trabalho-empre"", ""Titulo"": ""Vila Real ON - N\u00e3o Paramos"", ""location"": ""41.294303 -7.746327 0 0""}","<pre><yamldata>
 Destinatarios: cidadãos e empresas
 Link: https://vilarealon.cm-vilareal.pt
